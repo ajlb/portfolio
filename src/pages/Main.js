@@ -1,13 +1,13 @@
 import React from "react";
-import Header from "../components/header";
+import Header from "../components/Header";
 import Footer from "../components/footer";
-import Content from "../components/content"
+import MainContent from "../components/MainContent";
 
 function MainPage() {
     return(
         <div>
             <Header/>
-                <Content/>
+                <MainContent/>
             <Footer/>
         </div>
     );

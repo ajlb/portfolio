@@ -1,7 +1,9 @@
 import React, { useContext } from "react";
-import Projects from "./project";
+import Projects from "../project";
+import "./styles.css";
+import "./body.css";
 
-const Content = () => {
+const MainContent = () => {
     return (
         <div>
             <h1>Projects:</h1>
@@ -11,4 +13,4 @@ const Content = () => {
 
 };
 
-export default Content;
+export default MainContent;
