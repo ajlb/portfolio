@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.2e220043.chunk.css",
+    "main.js": "/portfolio/static/js/main.5652c52d.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.5652c52d.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.d955c681.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.d955c681.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/portfolio/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.96fb6bd7.chunk.js": "/portfolio/static/js/2.96fb6bd7.chunk.js",
+    "static/js/2.96fb6bd7.chunk.js.map": "/portfolio/static/js/2.96fb6bd7.chunk.js.map",
+    "static/js/3.1fb7683a.chunk.js": "/portfolio/static/js/3.1fb7683a.chunk.js",
+    "static/js/3.1fb7683a.chunk.js.map": "/portfolio/static/js/3.1fb7683a.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/portfolio/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.2e220043.chunk.css.map": "/portfolio/static/css/main.2e220043.chunk.css.map",
+    "static/js/2.96fb6bd7.chunk.js.LICENSE.txt": "/portfolio/static/js/2.96fb6bd7.chunk.js.LICENSE.txt",
+    "static/media/Code_Quiz.a83d1739.png": "/portfolio/static/media/Code_Quiz.a83d1739.png",
+    "static/media/Covid.ce33b58f.png": "/portfolio/static/media/Covid.ce33b58f.png",
+    "static/media/Nancy-Lambert.0576f3d0.pdf": "/portfolio/static/media/Nancy-Lambert.0576f3d0.pdf",
+    "static/media/WeatherDashboard.a5502607.png": "/portfolio/static/media/WeatherDashboard.a5502607.png",
+    "static/media/WorkDayScheduler.155fbddb.png": "/portfolio/static/media/WorkDayScheduler.155fbddb.png",
+    "static/media/avataaars.caffc81a.svg": "/portfolio/static/media/avataaars.caffc81a.svg",
+    "static/media/github.a3fbb269.png": "/portfolio/static/media/github.a3fbb269.png",
+    "static/media/linkedin.76d04cc3.png": "/portfolio/static/media/linkedin.76d04cc3.png",
+    "static/media/App.css": "/portfolio/static/media/low_contrast_linen.d7213c40.png",
+    "static/media/mail.1a58ca89.png": "/portfolio/static/media/mail.1a58ca89.png",
+    "static/media/sandwich.8e78e9dd.gif": "/portfolio/static/media/sandwich.8e78e9dd.gif",
+    "static/media/tutorial.eed1f787.gif": "/portfolio/static/media/tutorial.eed1f787.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d955c681.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.96fb6bd7.chunk.js",
+    "static/css/main.2e220043.chunk.css",
+    "static/js/main.5652c52d.chunk.js"
+  ]
+}
