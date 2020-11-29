@@ -1,41 +1,33 @@
 import React from "react";
+import github from "./img/github.png";
+import linkedin from "./img/linkedin.png";
+import email from "./img/mail.png";
 
 function Contact() {
     return (
-    <div>
-    {/* <!-- Contact Section --> */}
-    <section class="page-section" id="contact">
-        <div class="container">
-            {/* <!-- Contact Section Heading--> */}
-            <div class="text-center">
-                <h2 class="page-section-heading text-secondary d-inline-block mb-0">CONTACT</h2>
-            </div>
-            {/* <!-- Icon Divider--> */}
-            <div class="divider-custom">
-                <div class="divider-custom-line"></div>
-                <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
-                <div class="divider-custom-line"></div>
-            </div>
-            {/* <!-- Contact Section Content--> */}
-            <div class="row justify-content-center">
-                <div class="col-lg-4">
-                    <div class="d-flex flex-column align-items-center">
-                        <div class="icon-contact mb-3"><i class="fas fa-mobile-alt"></i></div>
-                        <div class="text-muted">Phone</div>
-                        <div class="lead font-weight-bold">404-954-2251</div>
-                    </div>
+        <section className='main'>
+            <div className="container">
+                <div className="row">
+                    <header className="col-12"><h2>Contact</h2></header>
+                    <hr />
+
+
+                    <div id='social-media-header'><p>Catch me at: </p></div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="d-flex flex-column align-items-center">
-                        <div class="icon-contact mb-3"><i class="far fa-envelope"></i></div>
-                        <div class="text-muted">Email</div><a class="lead font-weight-bold" href="mailto:NLBmakes@gmail.com">NLBmakes@gmail.com</a>
+                <div className="button-row">
+                    <div className="">
+                        <button id="github" className="btn btn-info"><a href="https://github.com/n-lambert" target="_blank" rel="noreferrer"><img src={github} alt="GitHub icon" /></a></button>
+                    </div>
+                    <div className="">
+                        <button id="linkedin" className="btn btn-info"><a href="https://www.linkedin.com/in/njlambert/" target="_blank" rel="noreferrer" ><img src={linkedin} alt="linkedIn icon" /></a></button>
+                    </div>
+                    <div className="">
+                        <button id="email" className="btn btn-info"><a href="mailto:NLBmakes@gmail.com"><img src={email} alt="email icon" /></a></button>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-    </div>
+        </section>
     )
 }
 
-export default Contact; 
+export default Contact;
