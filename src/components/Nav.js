@@ -13,7 +13,7 @@ function Nav() {
 
     return (
         <div className="navbar full-length">
-            <h1 className="navbar-brand col-sm-12 col-md-3 col-xl-2 text-center">Nancy Lambert-Brown</h1>
+            <h1 className="navbar-brand col-sm-12 col-md-3 col-xl-2 text-center">NLB-Makes</h1>
             <nav>
                 <ul className="nav text-center justify-content-end">
                     <li className="nav-item">
